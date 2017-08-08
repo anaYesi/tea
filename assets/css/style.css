@@ -1,0 +1,27 @@
+/* 
+Código Hexadecimal verde: #8EC641
+Código Hexadecimal gris footer: #3B3B3B
+*/
+/*Seccion Bienvenida*/
+*{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+	font-family: "Raleway";
+	font-size: 16px; 
+}
+#bienvenida{
+	background: url(../img/fondo-bienvenida.jpg);
+	background-size: cover;
+	background-position: center;
+	padding: 50px 0px;
+}
+/*afecta  al div y a la img*/
+.logo{
+	text-align: left;
+	padding: 0 30px;
+}
+/*afecta al div e img del html*/
+.mensaje{
+	text-align: center;
+}
